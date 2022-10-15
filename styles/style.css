@@ -28,6 +28,13 @@ h2 {
     font-family: 'Playfair Display', serif;
     font-weight: bold;
 }
+
+.ivory-on-violet {
+    margin-top: 15px;
+    color: ivory;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
 .top-hero {
         color: ivory;
         font-family: 'Playfair Display', serif;
@@ -46,13 +53,21 @@ i {
     box-shadow: 0 0 0 15px var(--secondary-color);
 }
 
-.img-fluid {
+.projects{
     border-radius: 20px;
     box-shadow: 0 0 0 7px var(--secondary-color);
 }
 
 .top-hero {
     margin-top: 25px;
+}
+
+.about-photo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 50%;
+    max-width: 520px;
+    box-shadow: 0 0 0 15px var(--secondary-color);
 }
 
 .contact-link {
